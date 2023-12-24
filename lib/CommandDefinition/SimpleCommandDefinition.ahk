@@ -1,0 +1,3 @@
+class SimpleCommandDefinition extends CommandDefinitionBase {
+
+}
